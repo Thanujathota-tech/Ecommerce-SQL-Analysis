@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Customer & Revenue Analysis (SQL Project)
+# E-Commerce Customer & Revenue Analysis (SQL Project)
 
 ## Project Overview
 
