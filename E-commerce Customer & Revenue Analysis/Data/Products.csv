@@ -1,0 +1,31 @@
+product_id,product_name,category,price
+1,iPhone 14,Electronics,69999
+2,Samsung Galaxy S23,Electronics,74999
+3,OnePlus 11R,Electronics,39999
+4,Sony WH-1000XM5 Headphones,Electronics,24999
+5,HP Pavilion Laptop,Electronics,55999
+6,Nike Running Shoes,Sports,4999
+7,Adidas Football,Sports,1499
+8,Puma Training T-Shirt,Clothing,1299
+9,Levi's 511 Jeans,Clothing,2999
+10,Raymond Formal Shirt,Clothing,1899
+11,Philips Air Fryer,Home Appliances,8999
+12,Prestige Pressure Cooker,Home Appliances,2499
+13,LG 32-inch Smart TV,Electronics,21999
+14,Boat Airdopes 141,Electronics,1499
+15,Mamaearth Face Wash,Beauty,349
+16,Lakme Lipstick,Beauty,599
+17,Maybelline Mascara,Beauty,499
+18,Milton Water Bottle,Home,399
+19,Cello Dinner Set,Home,1999
+20,Urban Ladder Study Table,Home,8999
+21,Decathlon Yoga Mat,Sports,999
+22,Noise Smartwatch,Electronics,2999
+23,Redmi Note 13,Electronics,16999
+24,Allen Solly Polo T-Shirt,Clothing,1599
+25,Samsung 1.5 Ton AC,Electronics,38999
+26,IFB Washing Machine,Home Appliances,27999
+27,Canon EOS 1500D Camera,Electronics,42999
+28,Tupperware Lunch Box,Home,799
+29,Havells Ceiling Fan,Home Appliances,3499
+30,Wildcraft Backpack,Accessories,1999
